@@ -1,6 +1,6 @@
 # Shopify clone using Tailwind-CSS
 
----
+---    
 
 - This project is a part of the Full Stack Javascript Web   Developer Bootcamp by iNeuron.
 - This is a Clone of a popular E-Commerce Website Builder tool Shopify.in.
